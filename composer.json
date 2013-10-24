@@ -2,7 +2,7 @@
 	"name": "dotink/markdown-extra-extended",
 	"description": "Markdown Extra Extended (Similar to GitHub Flavored)",
 	"keywords": ["markdown"],
-	"license": "BSD",
+	"license": "BSD-2-Clause",
 	"authors": [
 		{
 			"name": "Egil Hansen",
